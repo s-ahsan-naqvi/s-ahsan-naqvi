@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=MAA-web)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=s-ahsan-naqvi)](https://git.io/streak-stats)
 <!--
 **s-ahsan-naqvi/s-ahsan-naqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
